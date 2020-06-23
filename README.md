@@ -6,7 +6,7 @@
 ##### Notación y teoría
 [Music Theory for Musicians and Normal People - Toby Rush](https://tobyrush.com/theorypages/)
 
-## Temperamento justo
+#### Temperamento justo
 [Just Intonation Explained - Kyle Gann](https://kylegann.com/tuning.html)
 
 
