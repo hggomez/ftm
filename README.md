@@ -6,6 +6,10 @@
 ##### Notación y teoría
 [Music Theory for Musicians and Normal People - Toby Rush](https://tobyrush.com/theorypages/)
 
+## Temperamento justo
+[Just Intonation Explained - Kyle Gann](https://kylegann.com/tuning.html)
+
+
 ##### Teoría por [Jaime Altozano](https://www.youtube.com/channel/UCa3DVlGH2_QhvwuWlPa6MDQ)  
 [Qué es una escala](https://www.youtube.com/watch?v=OdYIS8KXdFI)  
 [Qué es un intervalo](https://www.youtube.com/watch?v=KbIRXKP6GfY)  
